@@ -13,6 +13,9 @@ I am currently learning Data Science and Machine Learning through hands-on proje
 * Machine Learning
 * Power BI
 
+Repository:
+https://github.com/UmarWaseem-ui/Data-Science-Journey
+
 ### Goals for 2026
 
 * Build a strong Data Science portfolio
@@ -21,14 +24,37 @@ I am currently learning Data Science and Machine Learning through hands-on proje
 * Learn Machine Learning fundamentals
 * Contribute regularly on GitHub
 
-### Tools & Technologies
+## 🛠 Skills
 
-* Python
-* VS Code
-* Jupyter Notebook
-* GitHub
-* SQL
-* Power BI
+### Programming
+- Python
+
+### Data Science
+- Pandas (Learning)
+- NumPy (Learning)
+- Data Analysis
+
+### Databases
+- SQL
+
+### Visualization
+- Power BI (Learning)
+
+### Tools
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+## 📚 Learning Progress
+
+- [x] Python Fundamentals
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Data Visualization
+- [ ] Statistics
+- [ ] SQL
+- [ ] Machine Learning
+- [ ] Power BI
 
 ### Current Repository
 
