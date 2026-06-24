@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Umar Waseem 👋
 
-<!--
-**UmarWaseem-ui/UmarWaseem-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I am currently learning Data Science and Machine Learning through hands-on projects and consistent practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+* Python
+* Data Analysis
+* Statistics
+* SQL
+* Machine Learning
+* Power BI
+
+### Goals for 2026
+
+* Build a strong Data Science portfolio
+* Complete multiple real-world projects
+* Master Python for Data Science
+* Learn Machine Learning fundamentals
+* Contribute regularly on GitHub
+
+### Tools & Technologies
+
+* Python
+* VS Code
+* Jupyter Notebook
+* GitHub
+* SQL
+* Power BI
+
+### Current Repository
+
+* Data-Science-Journey
+
+### Connect With Me
+
+* GitHub: UmarWaseem-ui
+
+---
+
+"Small progress every day leads to big results."
