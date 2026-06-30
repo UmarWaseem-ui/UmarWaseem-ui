@@ -48,8 +48,8 @@ https://github.com/UmarWaseem-ui/Data-Science-Journey
 ## 📚 Learning Progress
 
 - [x] Python Fundamentals
-- [ ] NumPy
-- [ ] Pandas
+- [x] NumPy
+- [x] Pandas
 - [ ] Data Visualization
 - [ ] Statistics
 - [ ] SQL
